@@ -1,0 +1,8 @@
+symbol,name,theme,dividend_hint,growth_proxy,valuation_proxy,profitability_hint,balance_sheet_hint,moat_hint,main_risk,notes
+US.NVDA,NVIDIA,AI semiconductors,low,high,expensive,strong,strong,strong,valuation too high,AI demand narrative; use price and volume only
+US.AAPL,Apple,mega-cap quality,medium,medium,fair,strong,strong,strong,growth slowdown,quality compounder; watch buyback and services narrative
+US.TSLA,Tesla,EV and autonomy,none,high,expensive,medium,medium,strong,margin pressure,high narrative sensitivity
+US.MSTR,MicroStrategy,bitcoin proxy,none,high,expensive,weak,medium,weak,bitcoin drawdown,bitcoin proxy; high volatility
+US.COIN,Coinbase,crypto exchange,none,high,cyclical,medium,strong,medium,crypto cycle downturn,crypto cycle proxy
+HK.00700,Tencent,China internet,low,medium,fair,strong,strong,strong,China policy risk,China internet platform
+HK.09988,Alibaba,China internet,low,medium,cheap,medium,strong,strong,China sentiment and competition,valuation repair candidate if China sentiment improves
